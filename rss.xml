@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[reformedcoder]]></title>
-        <description><![CDATA[reformedcoder]]></description>
+        <title><![CDATA[Brian Rountree is a reformed coder]]></title>
+        <description><![CDATA[Brian Rountree is a reformed coder]]></description>
         <link>https://thegrid.ai/reformedcoder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 02:30:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 02:45:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/reformedcoder/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/71b61eba-a913-4fd6-a10c-cbcc85b990fd.JPG">]]></description>
+            <link>https://thegrid.ai/reformedcoder/1997c918-41c4-4939-91a3-8bdb00126a1d/index.html</link>
+            <guid isPermaLink="false">1997c918-41c4-4939-91a3-8bdb00126a1d</guid>
+            <pubDate>Thu, 18 Feb 2016 02:44:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>DIRECTOR OF ENGINEERING, RACKER TOOLS AND DEVELOPER RELATIONS </p>]]></description>
             <link>https://thegrid.ai/reformedcoder/1479590a-695c-4a77-9f56-a0c48216d12d/index.html</link>
             <guid isPermaLink="false">1479590a-695c-4a77-9f56-a0c48216d12d</guid>
             <pubDate>Thu, 18 Feb 2016 02:30:45 GMT</pubDate>
