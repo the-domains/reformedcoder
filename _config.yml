@@ -1,0 +1,28 @@
+name: reformedcoder
+favicon: null
+layout_spectrum: 0.28210288914851844
+typography_spectrum: 0.6715041778516024
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.27992952428758144
+  lightness: 0.2108052142430097
+  saturation: 0.029575765831395984
+  rhythmicContrast: 0.41941833263263106
+purpose: []
