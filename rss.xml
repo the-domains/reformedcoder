@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[reformedcoder]]></title>
         <description><![CDATA[reformedcoder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reformedcoder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 02:25:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 02:30:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reformedcoder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/reformedcoder/1479590a-695c-4a77-9f56-a0c48216d12d/index.html</link>
+            <guid isPermaLink="false">1479590a-695c-4a77-9f56-a0c48216d12d</guid>
+            <pubDate>Thu, 18 Feb 2016 02:30:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/229b1c13-6a35-42ab-9c8e-5332f55106c6.jpg">]]></description>
-            <link>undefined413e0f85-e881-4eb5-a904-2f5c9294b6b5/index.html</link>
+            <link>https://thegrid.ai/reformedcoder/413e0f85-e881-4eb5-a904-2f5c9294b6b5/index.html</link>
             <guid isPermaLink="false">413e0f85-e881-4eb5-a904-2f5c9294b6b5</guid>
             <pubDate>Thu, 18 Feb 2016 02:24:34 GMT</pubDate>
         </item>
